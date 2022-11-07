@@ -1,4 +1,4 @@
-Olá, sou o Bruno Alonso 👋<br><br> 
+### Olá, sou Bruno Alonso 👋<br>
 Formado em Sistema de Informação, sou programador PHP Full Stack com 5 anos de experiência. Trabalho com métodos eficientes e de respostas rápidas, busco sempre aprimorar os meus conhecimentos para garantir o sucesso e o bom funcionamento no desenvolvimento e entrega. Possuo experiência e conhecimentos nas ferramentas: Visual Studio Code e NetBeans, com linguagem de programação PHP, Java, JavaScript com Ajax e jQuery, API em JSON, bancos de dados MySQL e PostgreSQL, estrutura da página em Web utilizo HTML5, CSS3 e Bootstrap. Conhecimento em automação de WhatsApp com Java e Selenium. Estou constantemente realizando cursos e me atualizando sobre novidades da área para melhores desenvolvimentos.
 
 <a href="https://www.linkedin.com/in/brunooalonso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -12,7 +12,7 @@ Formado em Sistema de Informação, sou programador PHP Full Stack com 5 anos de
 <div>
   <a href="https://github.com/brunooalonso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunooalonso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunooalonso&layout=compact&langs_count=7&theme=dark"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunooalonso&layout=compact&langs_count=7&theme=dark"/>-->
 </div>
 
 # 
